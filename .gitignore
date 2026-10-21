@@ -1,0 +1,13 @@
+# Data are downloaded by the notebook; never commit them.
+data/
+*.npz
+*.npy
+*.pkl
+*.zip
+
+# Editor / OS / Python clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.vscode/
+.idea/

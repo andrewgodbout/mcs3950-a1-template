@@ -1,0 +1,8 @@
+# Only needed if you work locally. Google Colab already has all of these.
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+scipy
+jupyter
